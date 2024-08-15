@@ -1,7 +1,7 @@
 # Audiobook downloader for knigavuhe.org
 
 ## Key features
-- Autosave in single mp3 file
+- Autosave into one mp3 file or by chapters
 - Take as little disk space as needed
 - Written in ruby
 
